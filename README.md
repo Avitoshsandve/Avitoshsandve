@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avitoshsandve
-- 👀 I’m interested in web development,cloud computing,DSA
+- 👀 I’m interested in web development(Full stack),DSA
 - 🌱 I’m currently learning in BE 3rd year
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me avitosh313@gmail.com
