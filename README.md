@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avitoshsandve
 - 👀 I’m interested in web development(Full stack),DSA
-- 🌱 I’m currently learning in BE 3rd year computer engineering.
+- 🌱 I’m currently learning in BE 4th year computer engineering.
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me avitosh313@gmail.com
 
